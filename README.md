@@ -1,6 +1,6 @@
-<div style="text-align: center;">
-    <img src="./artmentor_logo.png" width="60px"/>
-    <p><strong>ArtMentor Data Processing and Analysis Repository</strong></p>
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; width: 100%;">
+    <img src="./artmentor_logo.png" style="width: 60px; height: auto;"/>
+    <p style="text-align: center; margin: 10px 0;"><strong>ArtMentor Data Processing and Analysis Repository</strong></p>
 </div>
 
 ## Overview
