@@ -5,7 +5,8 @@
 
 ## Overview
 This repository (**Data Analysis System**) contains datasets and data processing scripts used in the **ArtMentor** project. The project focuses on analyzing human-AI interaction during the review and evaluation of artworks. Below are detailed descriptions of the key files, folders, and their purposes. To access ArtMentor's app (**Data Collection System**), please click [here](https://github.com/ArtMentor/ArtMentorApp).
-- **Paper**: [ArtMentor: AI-Assisted Evaluation of Artworks to Explore Multimodal Large Language Models Capabilities](#) (CHI 2025)
+- **Paper**: [ArtMentor: AI-Assisted Evaluation of Artworks to Explore Multimodal Large Language Models Capabilities](./ArtMentor%20AI-Assisted%20Evaluation%20of%20Artworks%20to%20Explore%20Multimodal%20Large%20Language%20Models%20Capabilities.pdf) (CHI 2025)
+
 ---
 ## `requirements.txt`
 Lists all necessary Python packages for running the scripts in this repository, allowing users to set up the appropriate environment using pip.
